@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hamidreza Heydarian"
 title_separator          : "-"
 name                     : &name "Hamidreza Heydarian"
-description              : &description "personal description"
+description              : &description "PhD candidate at TU Delft"
 url                      : https://hrheydarian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hrheydarian/hrheydarian.github.io"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Hamidreza Heydarian"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD candidate at TU Delft"
+  location         : "Delft, The Netherlands"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -92,15 +92,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "hrheydarian"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/hamidrezaheidarian"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/heidarian/"
+  orcid            : "http://orcid.org/0000-0003-1341-3165"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "https://soundcloud.com/heidarian"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
