@@ -3,7 +3,7 @@ title: "Medical Imaging"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Delft university of technology, Imaging Physics Department"
+venue: "Delft Dniversity of Technology, Imaging Physics Department"
 date: 2017-10-01
 location: "Delft, the Netherlands"
 ---
