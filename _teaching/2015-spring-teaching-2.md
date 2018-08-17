@@ -1,7 +1,7 @@
 ---
-title: "Medical Imaging"
+title: "Teaching assistant for Medical Imaging"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Delft Dniversity of Technology, Imaging Physics Department"
 date: 2017-10-01
