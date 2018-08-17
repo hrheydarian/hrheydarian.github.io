@@ -1,14 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Medical Imaging"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Delft university of technology, Imaging Physics Department"
+date: 2017-10-01
+location: "Delft, the Netherlands"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course is part of the minor Biomedical Engineering. It consists of 3 parts, which are given simultaneously: 
+Image acquisition, Image processing and Data analysis. 
+
 
 Heading 1
 ======
