@@ -10,11 +10,3 @@ location: "Delft, the Netherladns"
 
 Bachelor course based on the famous book of Oppenheim.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
