@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hamidreza Heydarian"
 title_separator          : "-"
 name                     : &name "Hamidreza Heydarian"
-description              : &description "PhD candidate at TU Delft"
+description              : &description "Postdoc researcher at TU Delft"
 url                      : https://hrheydarian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hrheydarian/hrheydarian.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Hamidreza Heydarian"
   avatar           : "profile.png"
-  bio              : "PhD candidate at TU Delft"
+  bio              : "Postdoc researcher at TU Delft"
   location         : "Delft, The Netherlands"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
