@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D, Delft University of Technology, the Netherlands
+* M.S. in Visual Computing, Saarland University, Germany 
+* B.S. in Electrical Engineering, Ferdowsi University of Mashhad, Iran
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*  October 2015 - present: Postdoc researcher
+  * Delft University of Technology
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2015 - October 2019: PhD candidate
+  * Delft University of Technology
+  * Supervisor: Bernd Rieger, Sjoerd Stallinga
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Image processing and computer vision
+* Single molecule localization microscopy
+* Programming  
+  * MATLAB
+  * Python
+  * C/C++
 
 Publications
 ======
@@ -54,6 +52,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
