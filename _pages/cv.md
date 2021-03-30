@@ -18,10 +18,10 @@ Education
 
 Work experience
 ======
-*  October 2015 - present: Postdoc researcher
+* October 2015 - present: Postdoc researcher
   * Delft University of Technology
 
-*  October 2015 - October 2019: PhD candidate
+* October 2015 - October 2019: PhD candidate
   * Delft University of Technology
   * Supervisor: Bernd Rieger, Sjoerd Stallinga
   
