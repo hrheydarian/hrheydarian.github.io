@@ -12,3 +12,8 @@ Single molecule localization microscopy offers in principle resolution down to t
 
 [Download paper here](https://www.nature.com/articles/s41467-021-22006-5)
 
+### Related news coverage:
+
+[Researchers make 3D image with light microscope](https://www.tudelft.nl/en/2021/tnw/researchers-make-3d-image-with-light-microscope)
+
+[Nature Communication twitter account](https://twitter.com/NatureComms/status/1395049860986933250)
