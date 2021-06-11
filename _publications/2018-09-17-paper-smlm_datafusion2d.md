@@ -17,3 +17,14 @@ Fusion of ~400 TUD DNA-origami nanostructures.
 
 [Download the paper here](https://www.nature.com/articles/s41592-018-0136-6)
 
+### Related news coverage:
+
+[Nature Methods News & Views: Single-particle analysis for fluorescence nanoscopy](https://www.nature.com/articles/s41592-018-0151-7)
+
+[Delft researchers push the boundaries of optical microscopy](https://www.tudelft.nl/en/2018/tu-delft/delft-researchers-push-the-boundaries-of-optical-microscopy)
+
+[Data Fusion at the Nanoscale: Imaging at Resolutions Better than Wavelength/100](https://ercim-news.ercim.eu/en108/special/data-fusion-at-the-nanoscale-imaging-at-resolutions-better-than-wavelength-100)
+
+[Researchers push the boundaries of optical microscopy.](https://phys.org/news/2018-09-boundaries-optical-microscopy.html)
+
+[TU Delft twitter account](https://twitter.com/tudelft/status/1042037039934398465)

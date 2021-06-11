@@ -12,3 +12,9 @@ We present an approach for 3D particle fusion in localization microscopy which d
 
 [Download paper here](https://www.biorxiv.org/content/10.1101/837575v1)
 
+### Related news coverage:
+
+[Researchers make 3D image with light microscope](https://www.tudelft.nl/en/2021/tnw/researchers-make-3d-image-with-light-microscope)
+
+[Nature Communication twitter account](https://twitter.com/NatureComms/status/1395049860986933250)
+
