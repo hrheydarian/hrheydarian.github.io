@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* October 2015 - present: Postdoc researcher
+* October 2019 - present: Postdoc researcher
   * Delft University of Technology
 
 * October 2015 - October 2019: PhD candidate
