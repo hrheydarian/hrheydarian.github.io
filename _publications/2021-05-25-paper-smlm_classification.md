@@ -19,3 +19,5 @@ Particle fusion for single molecule localization microscopy improves signal-to-n
 
 [How to find structurally different molecules before they disappear in the average?](https://www.tudelft.nl/en/2021/tnw/how-to-find-structurally-different-molecules-before-they-disappear-in-the-average)
 
+[Comparing apples with pears under the microscope.](https://www.tudelft.nl/en/stories/articles/comparing-apples-with-pears-under-the-microscope)
+
