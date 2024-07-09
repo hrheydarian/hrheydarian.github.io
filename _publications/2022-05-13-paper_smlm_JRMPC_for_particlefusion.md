@@ -1,0 +1,16 @@
+---
+title: "Joint registration of multiple point clouds for fast particle fusion in localization microscopy"
+collection: publications
+permalink: /publication/2022-05-13-paper_smlm_JRMPC_for_particlefusion
+excerpt: 'We present a fast particle fusion method for particles imaged with single-molecule localization microscopy. The state-of-the-art approach based on all-to-all registration has proven to work well but its computational cost scales unfavorably with the number of particles N, namely as N2. Our method overcomes this problem and achieves a linear scaling of computational cost with N by making use of the Joint Registration of Multiple Point Clouds (JRMPC) method. Straightforward application of JRMPC fails as mostly locally optimal solutions are found. These usually contain several overlapping clusters that each consist of well-aligned particles, but that have different poses. We solve this issue by repeated runs of JRMPC for different initial conditions, followed by a classification step to identify the clusters, and a connection step to link the different clusters obtained for different initializations. In this way a single well-aligned structure is obtained containing the majority of the particles.We achieve reconstructions of experimental DNA-origami datasets consisting of close to 400 particles within only 10 min on a CPU, with an image resolution of 3.2 nm. In addition, we show artifact-free reconstructions of symmetric structures without making any use of the symmetry. We also demonstrate that the method works well for poor data with a low density of labeling and for 3D data.The code is available for download from https://github.com/wexw/Joint-Registration-of-Multiple-Point-Clouds-for-Fast-Particle-Fusion-in-Localization-Microscopy.Supplementary data are available at Bioinformatics online.'  
+date: 2022-05-13
+venue: 'Bioinformatics'
+paperurl: https://doi.org/10.1093/bioinformatics/btac320
+citation: 'Wenxiu Wang, Hamidreza Heydarian, Teun A P M Huijben, Sjoerd Stallinga, Bernd Rieger, Joint registration of multiple point clouds for fast particle fusion in localization microscopy, Bioinformatics, Volume 38, Issue 12, June 2022, Pages 3281–3287, https://doi.org/10.1093/bioinformatics/btac320'
+---
+
+We present a fast particle fusion method for particles imaged with single-molecule localization microscopy. The state-of-the-art approach based on all-to-all registration has proven to work well but its computational cost scales unfavorably with the number of particles N, namely as N2. Our method overcomes this problem and achieves a linear scaling of computational cost with N by making use of the Joint Registration of Multiple Point Clouds (JRMPC) method. Straightforward application of JRMPC fails as mostly locally optimal solutions are found. These usually contain several overlapping clusters that each consist of well-aligned particles, but that have different poses. We solve this issue by repeated runs of JRMPC for different initial conditions, followed by a classification step to identify the clusters, and a connection step to link the different clusters obtained for different initializations. In this way a single well-aligned structure is obtained containing the majority of the particles.
+
+[Download paper here](https://academic.oup.com/bioinformatics/article/38/12/3281/6585334)
+
+
